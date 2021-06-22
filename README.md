@@ -1,5 +1,10 @@
 # todo-front
 
+## Backend server
+```
+backend server setting can be found in config.ts , currently listening from 127.0.0.1:5000;
+```
+
 ## Project setup
 ```
 npm install
